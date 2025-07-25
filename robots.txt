@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mydomain.com/sitemap.xml
+Sitemap: https://ntienhuy.github.io/AI-Thena-temp/sitemap.xml
